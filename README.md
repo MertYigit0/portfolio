@@ -1,11 +1,12 @@
 # Android Developer
 
-### Education
-Yeditepe University
-
-# Mert Yiğit
-
-![Logo](/assets/pp.png)
+### Profile
+I am an aspiring Android developer with a strong focus on using Kotlin to
+create innovative mobile applications. I am dedicated to enhancing my
+skills and knowledge in this field, continuously seeking to improve my
+expertise. As a highly motivated and enthusiastic individual, I am eager to
+contribute to dynamic teams and exciting projects that push the
+boundaries of mobile technology
 
 ## My Applications
 
