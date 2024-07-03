@@ -2,8 +2,23 @@
 
 ### Contact
 mertyigit.dev@gmail.com
+
 [Linkedin](https://github.com/MertYigit0/QuickRecipes)
+
 [Github](https://github.com/MertYigit0/QuickRecipes)
+
+
+### Education
+- Yeditepe University
+  - Computer Engineering (Bachelor of Science Degree) 2019-2024
+
+### Skills
+- Kotlin
+- Java
+- Android Development
+- Git
+- Firebase
+- SQLite
 
 
 ### Profile
