@@ -3,9 +3,9 @@
 ### Contact
 mertyigit.dev@gmail.com
 
-[Linkedin](https://github.com/MertYigit0/QuickRecipes)
+[Linkedin](https://www.linkedin.com/in/mertyigit0/)
 
-[Github](https://github.com/MertYigit0/QuickRecipes)
+[Github](https://github.com/MertYigit0)
 
 
 ### Education
